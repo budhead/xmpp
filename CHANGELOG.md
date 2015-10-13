@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 0.6.11 (2015-10-13)
+
+
 ## 0.6.1 (2014-11-20)
 
 - [PATCH] [Issue #4](https://github.com/fabiang/xmpp/issues/4):  Incomplete buffer response
